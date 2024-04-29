@@ -1,0 +1,165 @@
+{
+    "clothing": [
+        {
+            "id": 1,
+            "title": "Black Beanie",
+            "category": "headwear",
+            "imgUrl": "https://images.unsplash.com/photo-1618354691792-d1d42acfd860?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Perfect for cooler days or casual looks.",
+            "dateUploaded": "03-01-2024",
+            "imgAttribution": "https://unsplash.com/@ryanhoffman007",
+            "brand": "Adibas"
+        },
+        {
+            "id": 2,
+            "title": "White Ball Cap",
+            "category": "headwear",
+            "imgUrl": "https://images.unsplash.com/photo-1588850561407-ed78c282e89b?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Pair with denim shorts and a tee for the perfect effortless summer time look.",
+            "dateUploaded": "03-02-2024",
+            "imgAttribution": "https://unsplash.com/@mediamodifier",
+            "brand": "Mike"
+        },
+        {
+            "id": 3,
+            "title": "Button-up Blue Shirt",
+            "category": "tops",
+            "imgUrl": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Dress it up with slacks or dress it down with blue jeans.",
+            "dateUploaded": "03-03-2024",
+            "imgAttribution": "https://unsplash.com/@shivsantos",
+            "brand": "Old Army"
+            
+        },
+        {
+            "id": 4,
+            "title": "Black Tee",
+            "category": "tops",
+            "imgUrl": "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "The perfect black tee that belongs in everyone's closet. Versatile and can be paired with everything.",
+            "dateUploaded": "03-03-2024",
+            "imgAttribution": "https://unsplash.com/@ryanhoffman007",
+            "brand": "Adibas"
+        },
+        {
+            "id": 5,
+            "title": "Straw Sun Hat",
+            "category": "headwear",
+            "imgUrl": "https://images.unsplash.com/photo-1572453765270-eaf7b3c0fcff?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Perfect finishing touch for a sun dress or your music festival look.",
+            "dateUploaded": "03-03-2024",
+            "imgAttribution": "https://unsplash.com/@moino007",
+            "brand": "Tammy Bahama"
+        },
+        {
+            "id": 6,
+            "title": "Crochet Fringe Shawl",
+            "category": "tops",
+            "imgUrl": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "A bohemian outfit must.",
+            "dateUploaded": "03-03-2024",
+            "imgAttribution": "https://unsplash.com/@milada_vigerova",
+            "brand": "Archeology"
+        },
+        {
+            "id":7,
+            "title": "Dark Wash Jeans",
+            "category": "bottoms",
+            "imgUrl": "https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Can be dressed up or down.",
+            "dateUploaded": "03-03-2024",
+            "imgAttribution": "https://unsplash.com/@mattmoloney",
+            "brand": "Lewi's"
+        },
+        {
+            "id":8,
+            "title": "White Sneakers",
+            "category": "footwear",
+            "imgUrl": "https://images.unsplash.com/photo-1621665421571-2d325f9c7c6a?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "The perfect casual sneakers to go with any outfit.",
+            "dateUploaded": "03-03-2024",
+            "imgAttribution": "https://unsplash.com/@ervan_me",
+            "brand": "Mike"
+        },
+        {
+            "id":9,
+            "title": "Straw Fedora",
+            "category": "headwear",
+            "imgUrl": "https://images.unsplash.com/photo-1533939002743-17e4394fae5e?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Protect your skin in style.",
+            "dateUploaded": "03-16-2024",
+            "imgAttribution": "https://unsplash.com/@denisseleon",
+            "brand": "Johnny Bahama"
+        },
+        {
+            "id":10,
+            "title": "Black Crew Neck Long Sleeve",
+            "category": "tops",
+            "imgUrl": "https://images.unsplash.com/photo-1618354691321-e851c56960d1?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Trendy street wear for cooler weather.",
+            "dateUploaded": "03-16-2024",
+            "imgAttribution": "https://unsplash.com/@ryanhoffman007",
+            "brand": "Adibas"
+        },
+        {
+            "id":11,
+            "title": "Light Wash Denim Shorts",
+            "category": "bottoms",
+            "imgUrl": "https://images.unsplash.com/photo-1591195853828-11db59a44f6b?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "A classic warm weather staple.",
+            "dateUploaded": "03-16-2024",
+            "imgAttribution": "https://unsplash.com/@enginakyurt",
+            "brand": "Lewi's"
+        },
+        {
+            "id":12,
+            "title": "Light Pink Joggers",
+            "category": "bottoms",
+            "imgUrl": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Perfect activewear to take you from the gym to brunch.",
+            "dateUploaded": "03-16-2024",
+            "imgAttribution": "https://unsplash.com/@enginakyurt",
+            "brand": "Mumumelon"
+        },
+        {
+            "id":13,
+            "title": "Lightwash Skinny Jeans",
+            "category": "bottoms",
+            "imgUrl": "https://images.unsplash.com/photo-1584370848010-d7fe6bc767ec?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Who said that skinny jeans were out of style?",
+            "dateUploaded": "03-16-2024",
+            "imgAttribution": "https://unsplash.com/@enginakyurt",
+            "brand": "Old Army"
+        },
+        {
+            "id":14,
+            "title": "Running Shoes",
+            "category": "footwear",
+            "imgUrl": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Classy enough to spice up a casual look and comfortable enough to wear on a long walk.",
+            "dateUploaded": "03-14-2024",
+            "imgAttribution": "https://unsplash.com/@ikredenets",
+            "brand": "Weezy's"
+        },
+        {
+            "id":15,
+            "title": "Wedges",
+            "category": "footwear",
+            "imgUrl": "https://images.unsplash.com/photo-1562273138-f46be4ebdf33?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Summer date night or Sunday church ready.",
+            "dateUploaded": "03-14-2024",
+            "imgAttribution": "https://unsplash.com/@ikredenets",
+            "brand": "Dr. Polls"
+        },
+        {
+            "id":16,
+            "title": "Leather Casual Sneakers",
+            "category": "footwear",
+            "imgUrl": "https://images.unsplash.com/photo-1603808033192-082d6919d3e1?q=80&w=425&h=425&auto=format&fit=crop",
+            "description": "Comfrotable and stylish to compliment any outfit.",
+            "dateUploaded": "03-14-2024",
+            "imgAttribution": "https://unsplash.com/@fahiminia",
+            "brand": "Mallbirds"
+        }
+    ]
+}
